@@ -1,1 +1,2 @@
 first of all back_end is easy until u understand it!!
+somethong u want to learn like MERN which is mongoose,excel.js,react.js,node.js
